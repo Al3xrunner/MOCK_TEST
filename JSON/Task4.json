@@ -1,0 +1,19 @@
+{
+    "favorite_public_transport_name":"Stadler Lajkonik tram",
+    "favorite_public_transport_sections_count":3,
+    "favorite_public_transport_section_length":33.4,
+    "favorite_public_transport_released":true,
+    "favorite_public_transport_equipment":[
+        "air conditioning",
+        "monitoring",
+        "LED interior lighting",
+        "passenger information system",
+        "ticket machines"
+    ],
+    "favorite_public_transport_technical data":{
+        "supply_voltage_V":600,
+        "max_speed_km/h":70
+    },
+    "favorite_public_transport_release_date":"18.06.2020",
+    "favorite_public_transport_total_number_of_seats":222
+}
