@@ -1,0 +1,44 @@
+﻿[
+	{
+		"model": "Stadler Lajkonik",
+		"manufacturer": "Stadler rail",
+		"year of deployment": 2020,
+		"seating capacity": 82,
+		"type": "electric"
+	},
+	{
+		"model": "Pesa 2014N",
+		"manufacturer": "Pesa",
+		"year of deployment": 2015,
+		"seating capacity": 93,
+		"type": "electric"
+	},
+	{
+		"model": "Urbino 12",
+		"manufacturer": "Solaris Bus & Coach",
+		"year of deployment": 2010,
+		"seating capacity": 44,
+		"type": "gas"
+	},
+	{
+		"model": "Urbino 18 III Hybrid",
+		"manufacturer": "Solaris Bus & Coach",
+		"year of deployment": 2011,
+		"seating capacity": 51,
+		"type": "hybrid"
+	},
+	{
+		"model": "405N-Kr",
+		"manufacturer": "Protram",
+		"year of deployment": 2012,
+		"seating capacity": 64,
+		"type": "electric"
+	},
+	{
+		"model": "EU8N",
+		"manufacturer": "MPK Krakow",
+		"year of deployment": 2010,
+		"seating capacity": 48,
+		"type": "electric"
+	}
+]
