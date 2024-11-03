@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransport>
+    <Route>
+        <RouteNumber>1</RouteNumber>
+        <Destination>Krakow Main Station</Destination>
+        <TransportType>Tram</TransportType>
+        <Frequency>4</Frequency>
+    </Route>
+    <Route>
+        <RouteNumber>125</RouteNumber>
+        <Destination>Krakow Airport</Destination>
+        <TransportType>Bus</TransportType>
+        <Frequency>7</Frequency>
+    </Route>
+    <Route>
+        <RouteNumber>72</RouteNumber>
+        <Destination>Mały Płaszów P+R</Destination>
+        <TransportType>Tram</TransportType>
+        <Frequency>15</Frequency>
+    </Route>
+    <Route>
+        <RouteNumber>194</RouteNumber>
+        <Destination>Wieliczka</Destination>
+        <TransportType>Bus</TransportType>
+        <Frequency>20</Frequency>
+    </Route>
+    <Route>
+        <RouteNumber>9</RouteNumber>
+        <Destination>Kazimierz</Destination>
+        <TransportType>Tram</TransportType>
+        <Frequency>12</Frequency>
+    </Route>
+    <Route>
+        <RouteNumber>8</RouteNumber>
+        <Destination>Podgórze</Destination>
+        <TransportType>Tram</TransportType>
+        <Frequency>10</Frequency>
+    </Route>
+</PublicTransport>
