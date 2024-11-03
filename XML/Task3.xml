@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tram make="Stadler" model="Lajkonik">
+    <color type="RGB" format="string">blue</color>
+    <capacity unit="number of seats" format="int">82</capacity>
+    <premiere format="date" date_format="DD.MM.YYYY">18.06.2020</premiere>
+    <ride_price type="ulgowy" currency="PLN">2</ride_price>
+</tram>
