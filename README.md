@@ -49,6 +49,6 @@ Below is an image of the tramlines in krakow during the day-time hours:
 Below is an image of the tramlines in krakow during the night-time hours:  
 ![A graphic representing tramlines in krakow during the night][NightTramLines]
 
-[DayTramLines]: Tram_Lines_Night.png
+[DayTramLines]: Tram_Lines_Day.png
 
 [NightTramLines]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Krakow_linie_nocne.svg/1280px-Krakow_linie_nocne.svg.png
